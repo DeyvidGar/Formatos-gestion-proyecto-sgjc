@@ -9,5 +9,11 @@ Durante las etapas del ciclo de vida del software (requisitos, análisis, diseñ
     [Project Charter.docx](https://github.com/DeyvidGar/Formatos-gestion-proyecto-sgjc/files/7664972/charter-en-blanco.docx)
 
   >Diseño 
-  >Codificación 
-  >Pruebas e implementación
+    >[Proceso de diseño.docx](https://github.com/DeyvidGar/Formatos-gestion-proyecto-sgjc/files/7665019/U2.-.ACT1.-.Proceso.de.diseno.2.docx)
+    >[Alcance.docx](https://github.com/DeyvidGar/Formatos-gestion-proyecto-sgjc/files/7665079/U3.-.ACT3.-.ALCANCE.1.docx)
+
+    
+  >Ejecucion
+
+
+  >Cierre
